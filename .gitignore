@@ -1,0 +1,30 @@
+# JUCE / Projucer
+JuceLibraryCode/
+Builds/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.xcodeproj/
+*.xcworkspace/
+
+# Visual Studio
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.exp
+*.exe
+*.dll
+*.iobj
+*.ipdb
+*.sdf
+*.suo
+.vs/
+
+*.vst3
+*.component
+*.aaxplugin
+
+# macOS
+.DS_Store
